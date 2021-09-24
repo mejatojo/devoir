@@ -6,7 +6,7 @@ On a crée une fenêtre avec tkinter pour pouvoir se discuter entre utilisateurs
 
 # Formulaire avec Tkinter
 
-Formulaire demandant à l'utilisateur le nom, prenom, classe, numero et les entregistre dans un tableur excel appelé dd.xlsx
+Formulaire demandant à l'utilisateur son nom, prenom, classe, numero et les enregistre dans un tableur excel appelé dd.xlsx
 
 # Java UDP
 
